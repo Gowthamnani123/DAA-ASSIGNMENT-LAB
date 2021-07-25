@@ -6,7 +6,7 @@ int a[5],i,n,index;
 cout<<"Enter 5 numbers :";
 for(i=0;i<5;i++)
 cin>>a[i];
-cout<<"\nEnter a Number to search :";
+cout<<"\nEnter a Number to search in :";
 cin>>n;
 for(i=0;i<5;i++)
 {
